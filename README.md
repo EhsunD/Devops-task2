@@ -1,4 +1,6 @@
 # Devops-task2
+Again, special thanks to Alireza Shateri for these tasks and guidance in this journey.
+
 Second task of Devops, about operation system and Docker.
 
 # Step1:
